@@ -1,0 +1,8 @@
+What is their name?
+-Radoslav Yanuzov
+Where are they from?
+-Plovdiv
+What hobbies/pastimes do they enjoy?
+-electronics, and programing(learning now) microcontrollers
+Why did they pick SoftUni?
+Because SoftUni offers high level training(good trainers, site, judge, live ...).
